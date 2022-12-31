@@ -1,7 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Doctor-Strange!;Created+by+𝐓𝐓𝐁𝐎𝐓𝐒!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Auto-filter-bot!;Created+by+𝐓𝐓𝐁𝐎𝐓𝐒!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
 </p>
 <p align="center">
-  <img src="https://telegra.ph/file/8f6deb9d7fa796289a19b.jpg" alt="AutoFilter">
+  <img src="https://te.legra.ph/file/8e5acce507e709535a71c.jpg" alt="AutoFilter">
 </p>
 <h1 align="center">
   <b>Auto-filter-bot</b>
