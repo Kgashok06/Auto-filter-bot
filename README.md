@@ -7,7 +7,7 @@
   <b>Auto-filter-bot</b>
 </h1>
 
-<a href="https://t.me/czdbotz_support">
+<a href="https://t.me/+pl4rB-xx8ltlOTE1">
   <img src="https://img.shields.io/badge/Join-blue?logo=telegram" width="70">
 
 [![Stars](https://img.shields.io/github/stars/Kgashok06/Auto-filter-bot?style=flat-square&color=yellow)](https://github.com/Kgashok06/Auto-filter-bot/stargazers)
